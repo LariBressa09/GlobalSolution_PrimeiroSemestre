@@ -9,6 +9,7 @@ Equipe:
     RM 575601 - Aldo Roschel
     RM 575921 - Larissa Bressanini Lehn
     RM 575981 - Nicole Luiza Mascarenhas Zerbato
+    RM 575105 - Kelven Carlos Luiz de Souza
 
 Como executar (a partir da pasta raiz do repositório):
     python src/sistema.py

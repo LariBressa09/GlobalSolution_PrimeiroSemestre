@@ -11,6 +11,7 @@ Painel comunitário interativo em modo texto (CLI) desenvolvido em Python para r
 * **Aldo Roschel** — RM 575601
 * **Larissa Bressanini Lehn** — RM 575921
 * **Nicole Luiza Mascarenhas Zerbato** — RM 575981
+* **Kelven Carlos Luiz de Souza** — RM 575105
 
 ---
 

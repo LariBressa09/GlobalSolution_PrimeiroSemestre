@@ -2,7 +2,7 @@
 
 Global Solution 2026.2 – CitizenTech – Neighborhood Action Dashboard
 
-**Equipe:** Aldo Roschel (RM 575601), Larissa Bressanini Lehn (RM 575921), Nicole Luiza Mascarenhas Zerbato (RM 575981)
+**Equipe:** Aldo Roschel (RM 575601), Larissa Bressanini Lehn (RM 575921), Nicole Luiza Mascarenhas Zerbato (RM 575981) e Kelven Carlos Luiz de Souza (RM 575105)
 
 **Ferramenta utilizada:** assistente de IA generativa (agente de programação no ambiente Google Antigravity).
 
